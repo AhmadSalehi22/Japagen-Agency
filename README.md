@@ -1,6 +1,6 @@
 # Official Development Documentation of Japagen 
-The goto travel agency platform code details
-A Project made using PHP for both backend and frontend
+A Travel agency Web project made using PHP for both backend and frontend as an assignment for WBT course in University of Jaen (Spain)<br>
+
 ## [Click here for the deployed version](https://wbt2223-6-as.oa.r.appspot.com/pages/view)
 ## [Gitlab Project](https://gitlab.ujaen.es/mac/WBT2223_team6) 
 
