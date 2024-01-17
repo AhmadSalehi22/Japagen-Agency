@@ -1,0 +1,36 @@
+CRITICAL - 2023-03-09 11:17:53 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\user.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->getList()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 11:20:20 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\user.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->getList()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 11:20:57 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\user.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->getList()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 11:20:58 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\user.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->getList()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 11:20:58 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\user.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->getList()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 11:20:59 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\user.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->getList()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
